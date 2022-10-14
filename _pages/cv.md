@@ -56,16 +56,16 @@ Compétences
 Bourses et prix
 ======
 * 2018
- * IVADO
- * Bourses de stage d’été et d’initiation à la recherche au premier cycle
+  * IVADO
+  * Bourses de stage d’été et d’initiation à la recherche au premier cycle
   
 Implications scolaires
 ======
 * 2019 - 2020
- * Université de Montréal
- * Responsable Sport de l'AÉDIROUM
-   * Promotion des tournois sportifs interassociations
-   * Gestion du budget dédié aux sports pour l’association étudiante
+  * Université de Montréal
+  * Responsable Sport de l'AÉDIROUM
+    * Promotion des tournois sportifs interassociations
+    * Gestion du budget dédié aux sports pour l’association étudiante
 
 Centres d'intérêts
 ======
