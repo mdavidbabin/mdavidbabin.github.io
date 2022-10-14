@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Mathieu David-Babin"
   avatar           : "profile.png"
-  bio              : "m_david_babn@hotmail.com"
+  bio              : ""
   location         : "Montreal, Qc"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "m_david_babin@hotmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

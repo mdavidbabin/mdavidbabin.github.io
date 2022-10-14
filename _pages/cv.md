@@ -9,51 +9,65 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Éducation
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Baccalauréat en Informatique, Université de Montréal, 2020
+* Maîtrise en Informatique, Université de Montréal, Obtention prévue : 2022
+  * Option : Infographie
+  * Directeur : [Pierre Poulin](http://www.iro.umontreal.ca/~poulin/)
+  * Mémoire : Semi-transparent Textures Based on Opaque or Transparent Texels Augmented with a Thickness
 
-Work experience
+Expériences de travail
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Automnes 2020 et 2021: Auxiliaire d'enseignement IFT3355 - Infographie
+  * Université de Montréal
+  * Tâches : 
+    * Présentation de contenu pratique et théorique
+    * Conception et évalutation de travaux pratiques remis par des étudiants 
+  * Technologies utilisées : Javascript, ThreeJS, WebGL, GLSL, C++
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Été 2019: Stagiaire
+  * [Irosoft](https://www.irosoft.com/)
+  * Tâches :
+    * Développement d’une application web pour l’annotation de documents PDF
+  * Techologies utilisées : Javascript, C#, HTML, CSS
 
-Publications
+* Été 2018: Auxiliaire de recherche
+  * [Laboratoire de Cyberjustice](https://www.cyberjustice.ca/)
+  * Tâches : 
+    * Exploration sur le développement d’un outil prédictif pour les décisions en justice
+    * Conception d’un prototype de logiciel d’annotation de textes juridiques
+  * Technologies utilisées : Java, Python
+
+* Été 2017: Auxiliaire de recherche
+  * [ERPsim Lab](https://erpsim.hec.ca/)
+  * Tâches : 
+    * Développement de plateformes et d’outils utitle au simulateur ERPsim
+      * Application iOS intégrant SAP cloud et le langage Swift
+      * Application web pour la représentation de classements
+  * Technologies utilisées : Swift, Javascript, 3ds.js
+
+Compétences
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* C++, Javascript, Java, Python, , LATEX, HTML, CSS, C#, C, Swift
+* OpenGL, Git, Microsoft Office, Visual Studio
+* Langues : Français, Anglais
+
+Bourses et prix
+======
+* 2018
+ * IVADO
+ * Bourses de stage d’été et d’initiation à la recherche au premier cycle
   
-Talks
+Implications scolaires
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
+* 2019 - 2020
+ * Université de Montréal
+ * Responsable Sport de l'AÉDIROUM
+   * Promotion des tournois sportifs interassociations
+   * Gestion du budget dédié aux sports pour l’association étudiante
+
+Centres d'intérêts
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Sports : Volleyball, Escalade, Planche à neige
+* Gaming : Jeux solos et open world, League of Legends
