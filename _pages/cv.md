@@ -12,7 +12,7 @@ redirect_from:
 Éducation
 ======
 * Baccalauréat en Informatique, Université de Montréal, 2020
-* Maîtrise en Informatique, Université de Montréal, Obtention prévue : 2022
+* Maîtrise en Informatique, Université de Montréal, 2022
   * Option : Infographie
   * Directeur : [Pierre Poulin](http://www.iro.umontreal.ca/~poulin/)
   * Mémoire : Semi-transparent Textures Based on Opaque or Transparent Texels Augmented with a Thickness
